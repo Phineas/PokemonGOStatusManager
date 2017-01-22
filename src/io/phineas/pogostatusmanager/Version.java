@@ -4,6 +4,7 @@ package io.phineas.pogostatusmanager;
  * Created by Phineas (phineas.io) on 20/07/2016
  */
 public enum Version {
+    //..
 
     LATEST(1.0);
 

@@ -9,6 +9,7 @@ import java.util.Timer;
 
 public class Manager {
 
+    //..
     public static String CURRENT_DROPLET_ID = APIv2.getDropletInfo("id", "default");
     public static String CURRENT_DROPLET_ID_PROXY = APIv2.getDropletInfo("id", "proxy");
 

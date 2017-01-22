@@ -13,6 +13,8 @@ import java.net.URLConnection;
  * Created by Phineas (phineas.io) on 24/07/2016
  */
 public class APIv2 {
+    //I know it's static, but it's not an Object Oriented program so it shoudln't matter too much
+
     public static int getHTTPResponse() {
         try {
             URL url = new URL("https://pokemongostatus.net");
